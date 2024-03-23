@@ -10,6 +10,7 @@ import ChannelInviteModal from 'components/channel_invite_modal';
 import ChannelMembersModal from 'components/channel_members_modal';
 import {openPricingModal} from 'components/global_header/right_controls/plan_upgrade_button';
 import {useNotifyAdmin} from 'components/notify_admin_cta/notify_admin_cta';
+import PostList from 'components/post_view/post_list_virtualized/post_list_virtualized';
 import PostMessagePreview from 'components/post_view/post_message_preview';
 import PurchaseModal from 'components/purchase_modal';
 import StartTrialFormModal from 'components/start_trial_form_modal';
@@ -93,6 +94,7 @@ window.Components = {
     ThreadViewer,
     CreatePost,
     PostMessagePreview,
+    PostList,
 };
 
 // This is a prototype of the Product API for use by internal plugins only while we transition to the proper architecture
