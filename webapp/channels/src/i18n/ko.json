@@ -2218,7 +2218,6 @@
   "convert_channel.question2": "변경 사항은 영구적이므로 실행을 취소할 수 없습니다.",
   "convert_channel.question3": "정말 **{display_name}** 채널을 비공개 채널로 변환하시겠어요?",
   "convert_channel.title": "{display_name} 채널을 비공개 채널로 변환하시겠어요?",
-  "copy_url_context_menu.getChannelLink": "링크 복사",
   "create_category_modal.create": "Create",
   "create_comment.addComment": "이 글타래에 답글 달기...",
   "create_comment.commentTitle": "답글",

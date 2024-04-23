@@ -2207,7 +2207,6 @@
   "convert_channel.question2": "Questa modifica è permanente e non può essere cancellata.",
   "convert_channel.question3": "Procedere con la conversione di **{display_name}** a canale privato?",
   "convert_channel.title": "Convertire {display_name} a canale privato?",
-  "copy_url_context_menu.getChannelLink": "Copia collegamento",
   "create_category_modal.create": "Crea",
   "create_category_modal.createCategory": "Crea una categoria",
   "create_comment.addComment": "Aggiungi un commento...",

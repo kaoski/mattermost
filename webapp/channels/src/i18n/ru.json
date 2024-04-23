@@ -3318,7 +3318,6 @@
   "copied.message": "Скопировано",
   "copy.code.message": "Скопировать код",
   "copy.text.message": "Копировать текст",
-  "copy_url_context_menu.getChannelLink": "Скопировать ссылку",
   "create_category_modal.create": "Создать",
   "create_category_modal.createCategory": "Создать категорию",
   "create_comment.addComment": "Ответить в этой теме...",

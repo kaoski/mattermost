@@ -2488,7 +2488,6 @@
   "convert_channel.question2": "Schimbarea este permanentă și nu poate fi anulată.",
   "convert_channel.question3": "Ești sigur că vrei să converti **{display_name}** de la un canal privat?",
   "convert_channel.title": "Conversia {display_name} la un canal privat?",
-  "copy_url_context_menu.getChannelLink": "Copiază link",
   "create_category_modal.create": "Creează",
   "create_category_modal.createCategory": "Creați o categorie nouă",
   "create_comment.addComment": "Adauga un comentariu...",

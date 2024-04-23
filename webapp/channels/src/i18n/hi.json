@@ -2048,7 +2048,6 @@
   "combined_system_message.removed_from_team.two": "{FirstUser} और {secondUser} को ** टीम से हटा दिया गया।",
   "combined_system_message.you": "आप",
   "confirm_modal.cancel": "रद्द करना",
-  "copy_url_context_menu.getChannelLink": "प्रतिरूप जोड़ना",
   "create_category_modal.create": "सृजन करना",
   "create_comment.addComment": "एक टिप्पणी जोड़े...",
   "create_post.write": "{ChannelDisplayName} पर लिखें",

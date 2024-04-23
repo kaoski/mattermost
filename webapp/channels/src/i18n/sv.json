@@ -3370,7 +3370,6 @@
   "copied.message": "Kopierad",
   "copy.code.message": "Kopiera kod",
   "copy.text.message": "Kopiera text",
-  "copy_url_context_menu.getChannelLink": "Kopiera länk",
   "create_category_modal.create": "Skapa",
   "create_category_modal.createCategory": "Skapa ny kategori",
   "create_comment.addComment": "Svara på tråden...",

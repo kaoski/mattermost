@@ -2960,7 +2960,6 @@
   "copied.message": "Đã sao chép",
   "copy.code.message": "Sao chép mã",
   "copy.text.message": "Sao chép văn bản",
-  "copy_url_context_menu.getChannelLink": "Sao chép liên kết",
   "create_category_modal.create": "Tạo",
   "create_category_modal.createCategory": "Tạo danh mục mới",
   "create_comment.addComment": "Thêm nhận xét ...",

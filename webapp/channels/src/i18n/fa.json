@@ -2684,7 +2684,6 @@
   "copied.message": "رونوشت شد",
   "copy.code.message": "رونوشت کد",
   "copy.text.message": "رونوشت متن",
-  "copy_url_context_menu.getChannelLink": "لینک را کپی کنید",
   "create_category_modal.create": "ایجاد کردن",
   "create_category_modal.createCategory": "ایجاد رده جدید",
   "create_comment.addComment": "پاسخ به این تاپیک...",

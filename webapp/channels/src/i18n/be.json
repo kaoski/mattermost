@@ -2775,7 +2775,6 @@
   "convert_channel.question3": "Вы ўпэўнены, што жадаеце пераўтварыць **{display_name}** у прыватны канал?",
   "convert_channel.title": "Пераўтварыць {display_name} у прыватны канал?",
   "copied.message": "Скапіявана",
-  "copy_url_context_menu.getChannelLink": "Скапіяваць спасылку",
   "create_category_modal.create": "Стварыць",
   "create_category_modal.createCategory": "Стварыць катэгорыю",
   "create_comment.addComment": "Адказаць у гэтай тэме...",

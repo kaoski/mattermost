@@ -222,7 +222,6 @@
   "combined_system_message.removed_from_team.two": "{firstUser} και {secondUser} **αφαιρέθηκαν από την ομάδα**.",
   "combined_system_message.you": "Εσείς",
   "confirm_modal.cancel": "Ακύρωση",
-  "copy_url_context_menu.getChannelLink": "Αντιγραφή Συνδέσμου",
   "create_category_modal.create": "Δημιουργία",
   "create_comment.addComment": "Προσθέστε ένα σχόλιο...",
   "create_post.write": "Γράψτε στο {channelDisplayName}",

@@ -3370,7 +3370,6 @@
   "copied.message": "Kopyalandı",
   "copy.code.message": "Kodu kopyala",
   "copy.text.message": "Metni kopyala",
-  "copy_url_context_menu.getChannelLink": "Bağlantıyı kopyala",
   "create_category_modal.create": "Ekle",
   "create_category_modal.createCategory": "Yeni kategori ekle",
   "create_comment.addComment": "Bu konuyu yanıtlayın...",

@@ -1440,7 +1440,6 @@
   "combined_system_message.removed_from_team.two": "{firstUser} e {secondUser} foron **retirados do equipo**.",
   "combined_system_message.you": "Vostede",
   "confirm_modal.cancel": "Cancelar",
-  "copy_url_context_menu.getChannelLink": "Copiar a ligazón",
   "create_comment.addComment": "Engadir un comentario…",
   "create_post.read_only": "Esta canle é de só lectura. Só os membros con permiso poden publicar aquí.",
   "create_post.write": "Escribir en {channelDisplayName}",

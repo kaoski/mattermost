@@ -2613,7 +2613,6 @@
   "convert_channel.question2": "Промяната е постоянна и не може да бъде отменена.",
   "convert_channel.question3": "Сигурни ли сте, че искате да преобразувате **{display_name}** в частен канал?",
   "convert_channel.title": "Преобразувайте {display_name} в частен канал?",
-  "copy_url_context_menu.getChannelLink": "Копирай връзка",
   "create_category_modal.create": "Създай",
   "create_category_modal.createCategory": "Създайте нова категория",
   "create_comment.addComment": "Отговор в този разговор...",
